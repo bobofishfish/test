@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>http://47.89.12.59/ipa/FishingFortune(GameRoom)1.0.13.ipa</string>
+					<string>http://47.89.12.59/release/FishingFortune(GameRoom)/1.0.13/debug/Fishing Fortune(GameRoom).ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
