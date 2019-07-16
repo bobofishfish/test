@@ -12,7 +12,7 @@
 					<string>software-package</string>
 					<key>url</key>
 					<!-- 需要安装的ipa包在服务器的路径 -->
-					<string>http://fishd.sdgaming.net/FishingFortune.ipa</string>
+					<string>47.89.12.59/apk/QubeFishing/FishingFortune(GameRoom)1.0.13.02b2.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
