@@ -22,7 +22,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的大图标（1024*1024）在服务器的路径 -->
-					<string>http://47.89.12.59/release/FishingFortune(GameRoom)/1.0.13/icon1024.png</string>
+					<string>http://47.89.12.59/apk/QubeFishing/icon1024.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -31,7 +31,7 @@
 					<true/>
 					<key>url</key>
 					<!-- 安装时需要显示的小图标（180*180）在服务器的路径 -->
-					<string>http://47.89.12.59/release/FishingFortune(GameRoom)/1.0.13/icon180.png</string>
+					<string>http://47.89.12.59/apk/QubeFishing/icon180.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
